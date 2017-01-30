@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# © LeoGSA - Sergey Grigoriev
+
 """
 This program allows to do many Left_Mouse_Button Clicks automatically.
 1) You point a mouse
