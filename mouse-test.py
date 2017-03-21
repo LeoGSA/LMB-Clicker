@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# © LeoGSA - Sergey Grigoriev
+# © LeoGSA - Sergey Grigoriev (leogsa@gmail.com)
 
 """
 This program allows to do many Left_Mouse_Button Clicks automatically.
