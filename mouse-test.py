@@ -4,7 +4,7 @@
 """
 This program allows to do many Left_Mouse_Button Clicks automatically.
 1) You point a mouse
-2) press Enter
+2) Press Space
 Program does 50 Left_Mouse_Button Clicks at chosen point.
 """
 import pyautogui
