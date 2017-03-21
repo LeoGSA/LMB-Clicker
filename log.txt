@@ -1,0 +1,1 @@
+['cmd.exe', '/c', 'python', 'D:\\GitHub\\LMB-Clicker\\mouse-test.py', '&', 'pause']

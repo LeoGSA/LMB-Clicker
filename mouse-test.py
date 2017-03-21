@@ -32,7 +32,7 @@ def keyboard(clicks):
             break
 
 if __name__ == '__main__':
-    clicks=50
+    clicks = 50
     if len(sys.argv) > 1:
         clicks = int(sys.argv[1])
     print ('Started.\nSpace = '+str(clicks)+' clicks.'+'\nPress Enter to stop.')
